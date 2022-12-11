@@ -6,10 +6,9 @@
 
 5)j'ai créé le Getway pour la communication entre microservices créés
 
-6)après j'ai définit le "FEIGN" qui est un client HTTP qui facilite grandement l'appel des API exposées par les différents microservices 
+6)après j'ai définit le "FEIGN" qui est un client HTTP qui facilite grandement l'appel des API exposées par les différents microservices
 
-7) Pour sécuriser l'application j'ai utilisé Keycloak qui s'occupe pour le processus de sécurité et d'authentification/rôles pour l'application en ajoutant des rôles et 
+7) Pour sécuriser l'application j'ai utilisé Keycloak qui s'occupe pour le processus de sécurité et d'authentification/rôles pour l'application en ajoutant des rôles au logins 
 
-8) des logins
+8)  La front Angular pas implémenté
 
-9) La front Angular pas implémenté

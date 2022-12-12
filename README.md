@@ -26,6 +26,11 @@
 
 ![image](https://user-images.githubusercontent.com/56736005/207012666-cfb08fbd-9c66-4284-8711-7949ce65c476.png)
 
+Authenitificateur OTP:
+
+![image](https://user-images.githubusercontent.com/56736005/207014393-a7e982ce-f579-4948-81b0-0ec173a6e828.png)
+
+
 *Partie Produit :
 
 ![image](https://user-images.githubusercontent.com/56736005/207004784-c4b97948-1b2e-4490-9758-ae9e9f0071c7.png)

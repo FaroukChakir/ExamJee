@@ -17,18 +17,18 @@
 
 *Pour la partie Login et creation de comptes : 
 
-![image](https://user-images.githubusercontent.com/56736005/207004466-dd73bb62-d58e-413b-b526-8ea755dbbe49.png)
-![image](https://user-images.githubusercontent.com/56736005/207004504-4dea7f63-ff2b-4ce9-bce8-bdc1f9fa74f2.png)
+![image](https://user-images.githubusercontent.com/56736005/207054066-9ea3367d-1098-4d96-9152-37a6849a87a0.png)
+![image](https://user-images.githubusercontent.com/56736005/207054112-1cc5868e-089f-4c7b-a56a-e538ef95c8aa.png)
 
 *Si le mot de passe ne contient pasd des charactères majiscules et miniscules comme indiqué dans les stratègies "Policies" :
 
-![image](https://user-images.githubusercontent.com/56736005/207012872-183d1271-76a4-45de-a1df-b73bed53cf1d.png)
+![image](https://user-images.githubusercontent.com/56736005/207054167-6b634bc9-b3a5-48fc-a137-2ebe0e02bb66.png)
 
-![image](https://user-images.githubusercontent.com/56736005/207012666-cfb08fbd-9c66-4284-8711-7949ce65c476.png)
+![image](https://user-images.githubusercontent.com/56736005/207054233-36eaa2c6-9a9c-4c4c-ad4f-6a050992cecf.png)
 
 Authenitificateur OTP:
 
-![image](https://user-images.githubusercontent.com/56736005/207014393-a7e982ce-f579-4948-81b0-0ec173a6e828.png)
+![image](https://user-images.githubusercontent.com/56736005/207054276-dca5f2c4-1c0e-4517-9b82-2f015bf08ade.png)
 
 
 *Partie Produit :
@@ -37,10 +37,9 @@ Authenitificateur OTP:
 
 *Partie Supplier (fournisseur) :
 
-![image](https://user-images.githubusercontent.com/56736005/207004869-cb26c22c-6dea-4f09-bee1-7fb76f1d8a1d.png)
+![image](https://user-images.githubusercontent.com/56736005/207054321-1c2832ea-4d5b-45c8-bc20-67cbbedfcae9.png)
 
 *et si jamais l'utilisateur n'est pas autorisé à acceder : 
 
-![image](https://user-images.githubusercontent.com/56736005/207005476-5fb40120-cf2c-4030-aa61-c8899ccdc50b.png)
-
+![image](https://user-images.githubusercontent.com/56736005/207054412-ddc8fe03-b8db-4ddd-b4df-d8cdc164e503.png)
 

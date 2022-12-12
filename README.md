@@ -12,3 +12,22 @@
 
 8)  La front Angular pas implémenté
 
+Captures d'écran
+
+
+Pour la partie Login et creation de comptes : 
+
+![image](https://user-images.githubusercontent.com/56736005/207004466-dd73bb62-d58e-413b-b526-8ea755dbbe49.png)
+![image](https://user-images.githubusercontent.com/56736005/207004504-4dea7f63-ff2b-4ce9-bce8-bdc1f9fa74f2.png)
+
+Partie Produit :
+
+![image](https://user-images.githubusercontent.com/56736005/207004784-c4b97948-1b2e-4490-9758-ae9e9f0071c7.png)
+
+Partie Supplier (fournisseur) :
+
+![image](https://user-images.githubusercontent.com/56736005/207004869-cb26c22c-6dea-4f09-bee1-7fb76f1d8a1d.png)
+
+et si jamais l'utilisateur n'est pas autorisé à acceder : 
+
+![image](https://user-images.githubusercontent.com/56736005/207005476-5fb40120-cf2c-4030-aa61-c8899ccdc50b.png)
